@@ -1,0 +1,19 @@
+.redbox{
+    height: 300px;
+    width: 200px;
+    background-color: lightsalmon;
+    margin: 10px;
+    color: darkblue;
+    padding: 5px;
+    float: left;
+}
+
+.bluebox{
+    height: 300px;
+    width: 200px;
+    background-color: blue;
+    margin: 10px;
+    color: lightcoral;
+    padding: 5px;
+    float: left;
+}
